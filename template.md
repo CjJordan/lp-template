@@ -138,7 +138,7 @@ const x = 4
 
 ![note][note] _note_
 
-You can easily gauge the layout of your lesson plan by reviewing your icon colors. **Blues** are student activities and are more engaging. **Greens and Purples** are instructor lead but with fairly high student engagement. **Yellows** (including yellow-green) are instructor lead and are low engagement, but necessary.
+You can easily gauge the layout of your lesson plan by reviewing your icon colors. **Blues** are student activities and are more engaging. **Greens** are instructor lead but student driven with fairly high student engagement. **Yellows** are instructor lead and are low engagement.
 
 Try to write a rainbow lesson plan! 
 
@@ -196,7 +196,7 @@ Review the solution or guide students through a good approach if there is no sin
 
 [lecture]: https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_lecture/res/mipmap-hdpi/ic_lecture.png "Lecture"
 
-[demo-code]: https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_demo_code/res/mipmap-hdpi/ic_show_code.png "Demo Code"
+[demo-code]: https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_demo_code/res/mipmap-hdpi/ic_demo_code.png "Demo Code"
 
 [critique]: https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_critique/res/mipmap-hdpi/ic_critique.png "Critique"
 
