@@ -34,7 +34,7 @@ Use `**` to bold relevant words that will make the lesson plan easier to parse a
 
 > "Use blockquotes to indicate an important quote for instructors to say. Use this sparingly. This can be especially useful for important definitions or difficult concepts to explain."
 
-Keep the instructor do instructive but concise. 
+Keep the "Instructor Do" instructive but concise. 
 
 ![discuss][discuss]
 
@@ -43,7 +43,7 @@ Leading discussions is a great way to increase engagement and check for student 
 - ask open-ended probing questions
 - ask learners to explain a concept back to you
 - ask learners why this concept is important/where it might be applicable 
-- call on students to get the discussion started
+- call on learners to get the discussion started
 
 ### Partner Do: Sub-Topic A ( 20 min )
 ![create][create]
@@ -77,7 +77,7 @@ Call on a different student. Ask them what their favorite part of this solution 
 ### Instructor Do: Sub-Topic A ( 10 min )
 ![lecture][lecture]
 
-Time for more lecture. The lesson is divided into three 45 minute sections. This helps to **focus** each lesson around 3 topics that all support 1 over arching concept. Instructor Dos should be **limited to 15 minutes** max. Consider these layouts for the 45 minute sections: 
+Time for more lecture. The lesson is divided into three 45 minute sections. This helps to **focus** each lesson around 3 topics that all support 1 over-arching concept. "Instructor Do"s should be **limited to 15 minutes** max. Consider these layouts for the 45 minute sections: 
 
 #### I Do, We Do, You Do
 - Instructor Do ( 10 min )
@@ -85,7 +85,7 @@ Time for more lecture. The lesson is divided into three 45 minute sections. This
 - Student Do ( 15 min )
 - Instructor Review ( 10 min )
 
-
+This layout is great for more difficult concepts. Begin by explaining a concept, then model the behavior as learners follow along in the "We Do", and finally allow learners to independently apply the new skill in the "Student Do". 
 
 #### The Double Whammy
 - Instructor Do ( 10 min )
@@ -95,9 +95,9 @@ Time for more lecture. The lesson is divided into three 45 minute sections. This
 - Student Do ( 10 min )
 - Instructor Review ( 5 min )
 
-This is best for concept or task that has two parts. For example when teaching CSS animations, first teach students keyframes and allow learners to apply the new concept. Then demo multistep animations and give learners an opprtunity to apply this new layer. 
+This is best for concept or task that has two parts. For example when teaching CSS animations, first teach keyframes and allow learners to apply the new concept. Then demo multistep animations and give learners an opprtunity to apply this new layer. 
 
-This can also be useful for complex concepts. The first activity is a monkey-see-monkey-do activity. The second activity provides students a more challenging application. 
+This can also be useful for complex concepts. The first activity is a monkey-see-monkey-do activity. The second activity provides learners a more challenging application. 
 
 #### The Mini Project
 - Instructor Do ( 10 min )

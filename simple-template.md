@@ -16,6 +16,10 @@ After this lesson, students will be able:
 
 Remind students that if they cannot meet any of these objectives it is their responsibility to seek help. 
 
+### Demo
+
+Demo what students will be able to do with the knowledge they learn today. For example, if the topics of the day are HTML, CSS, and media-queries, demo a mobile responsive web app and point out the role HTML, CSS, and media-queries play. 
+
 ---
 ## Topic 1 ( 45 min )
 
