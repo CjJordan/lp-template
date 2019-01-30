@@ -30,7 +30,7 @@ Explain a concept here. Use **analogies**. Point out the practical applications 
 
 Talking points and action items do NOT need to be bulleted. **Bullets create unecessary clutter**. Keep each paragraph short and digestible. 
 
-Use `**` to bold relevant words that will make the lesson plan easier to parse at glance in class. 
+Use `**` to bold relevant words that will make the lesson plan easier to parse at a glance in class. 
 
 > "Use blockquotes to indicate an important quote for instructors to say. Use this sparingly. This can be especially useful for important definitions or difficult concepts to explain."
 
