@@ -29,7 +29,7 @@ When the instructor is demonstrating code.
 
 When the instructor is leading a student-driven critique. 
 - critiquing student work
-- critique outside work
+- critiquing outside work
 
 
 ### Discuss ###
@@ -43,7 +43,7 @@ When the instructor facilitates discussions.
 When the instructor codes with the students guiding the activity. This does not include asking students to code along.
 - calling a student to the podium and asking them code an exercise with help from the class
 - calling on students one at a time to dictate a line of code each as instructor types
-- calling in student(s) to explain each line as you type it.
+- calling on student(s) to explain each line as you type it.
 
 ### We Create ###
 ![we code](https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_we_create/res/mipmap-hdpi/ic_we_create.png)
