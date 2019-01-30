@@ -138,7 +138,7 @@ const x = 4
 
 ![note][note] _note_
 
-You can easily gauge the layout of your lesson plan by reviewing your icon colors. **Blues** are student activities and are more engaging. **Greens and Purples** are instructor lead but with fairly high student engagement. **Yellows** (including yellow-green) are instructor lead and are low engagement, but necessary.
+You can easily gauge the layout of your lesson plan by reviewing your icon colors. **Blues** are student activities and are more engaging. **Greens** are instructor lead but student driven with fairly high student engagement. **Yellows** are instructor lead and are low engagement.
 
 Try to write a rainbow lesson plan! 
 
