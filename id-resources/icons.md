@@ -50,14 +50,14 @@ When the instructor facilitates discussions.
 ## Independent Learner Activities ##
 
 ### Learner Code ###
-![learn-code](https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_learn_code/res/mipmap-hdpi/ic_learner_code.png)
+![learn-code](https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_learn_code/res/mipmap-hdpi/ic_learn_code.png)
 
 When the learner is coding as an independent activity (coding along with the instructor is Demo Code _NOT_ Learner Code) 
 - partner, group, or independent coding
 
 
 ### Learner Create ###
-![create](https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_create/res/mipmap-hdpi/ic_create.png)
+![create](https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_create/res/mipmap-hdpi/ic_learn_create.png)
 
 When the learner is creating as an independent activity (following along with the instructor is _NOT_ Learner Create)
 - partner, group, or independent design activities
