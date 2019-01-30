@@ -78,7 +78,7 @@ When the learner is independently researching or teaching topics.
 - learner turn and teach activities.
 
 
-### Special Activity###
+### Special Activity ###
 ![special](https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_special/res/mipmap-hdpi/ic_special.png)
 
 A highly noteworthy deviation from the norm (generally illustrating exceptionally high engagment), for example:
