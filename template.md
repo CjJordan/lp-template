@@ -202,9 +202,9 @@ Review the solution or guide students through a good approach if there is no sin
 
 [discuss]: https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_discuss/res/mipmap-hdpi/ic_discuss.png "Discussion"
 
-[learn-code]: https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_learn_code/res/mipmap-hdpi/ic_learner_code.png "Learner Code"
+[learn-code]: https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_learn_code/res/mipmap-hdpi/ic_learn_code.png "Learner Code"
 
-[create]: https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_create/res/mipmap-hdpi/ic_create.png "Learner Create"
+[create]: https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_create/res/mipmap-hdpi/ic_learn_create.png "Learner Create"
 
 [research]: https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_research/res/mipmap-hdpi/ic_research.png "Learner Research"
 
