@@ -120,9 +120,8 @@ _[links to starter files go here]_
 This is student facing material. Include and number steps when applicable. 
 
 ### Instructor Review: Sub-Topic A ( 5 min )
-![critique][critique]
 
-A 5 minute critique will likely need to be instructor lead, but consider calling on 1 student. 
+Review the solution. 
 
 ### Instructor Do: Sub-Topic B ( 5 min )
 ![demo-code][demo-code]
@@ -131,13 +130,19 @@ When possible sample code should be written in-line. This allows instructors to 
 
 Break down coding demos into easily digestible steps with explanations for each. 
 
-![note][note]
-
 In-line code should be written between three backticks and include the syntax highlighting keyword like `js`, `html`, `css`, etc. 
 
 ```js
 const x = 4
 ```
+
+![note][note]
+
+**NOTE:**
+
+You can easily gauge the layout of your lesson plan by reviewing your icon colors. **Blues** are student activities and are more engaging. **Greens and Purples** are instructor lead but with fairly high student engagement. **Yellows** (including yellow-green) are instructor lead and are low engagement, but necessary.
+
+Try to write a rainbow lesson plan! 
 
 ### Partner Do: Sub-Topic B ( 10 min )
 ![learn-code][learn-code]
@@ -154,6 +159,8 @@ This is student facing material. Include and number steps when applicable.
 
 ### Instructor Review: Sub-Topic B ( 5 min )
 
+Review the solution. 
+
 ---
 ## Break ( 10 min )
 ![break][break]
@@ -162,8 +169,12 @@ This is student facing material. Include and number steps when applicable.
 ## Topic 3 ( 45 min )
 
 ### Instructor Do: Sub-Topic A ( 10 min )
+![lecture][lecture]
+
+More lecture, but that doesn't have to mean boring. Try writing in engagement tactics like fist-to-fives, asking students questions, and including short (60 second) thought exercises, research opportunities, or turn and talks (t&t for in-person only). 
 
 ### Partner Do: Sub-Topic A ( 25 min )
+![create][create]
 
 Insturctor notes should go here above instructions. 
 
