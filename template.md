@@ -196,7 +196,7 @@ Review the solution or guide students through a good approach if there is no sin
 
 [lecture]: https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_lecture/res/mipmap-hdpi/ic_lecture.png "Lecture"
 
-[demo-code]: https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_demo_code/res/mipmap-hdpi/ic_show_code.png "Demo Code"
+[demo-code]: https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_demo_code/res/mipmap-hdpi/ic_demo_code.png "Demo Code"
 
 [critique]: https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_critique/res/mipmap-hdpi/ic_critique.png "Critique"
 
