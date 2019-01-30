@@ -24,7 +24,7 @@ Demo what students will be able to do with the knowledge they learn today. For e
 ## Topic 1 ( 45 min )
 
 ### Instructor Do: Sub-Topic A  ( 15 min )
-![lecture][lecture]
+![lecture][lecture] _lecture_
 
 Explain a concept here. Use **analogies**. Point out the practical applications of this concept by using **anecdotes** from your work life or by pointing to its use in applications that students are familiar with. 
 
@@ -36,7 +36,7 @@ Use `**` to bold relevant words that will make the lesson plan easier to parse a
 
 Keep the "Instructor Do" instructive but concise. 
 
-![discuss][discuss]
+![discuss][discuss] _discussion_
 
 Leading discussions is a great way to increase engagement and check for student understanding. Try these tactics: 
 
@@ -46,7 +46,7 @@ Leading discussions is a great way to increase engagement and check for student 
 - call on learners to get the discussion started
 
 ### Partner Do: Sub-Topic A ( 20 min )
-![create][create]
+![create][create] _learner create_
 
 Insturctor notes should go here above instructions. 
 
@@ -59,7 +59,7 @@ _[links to starter files go here]_
 This is student facing material. Include and number steps when applicable. 
 
 ### Instructor Review: Sub-Topic A ( 10 min )
-![critique][critique]
+![critique][critique] _critique_
 
 Give students 60 seconds to upload their work to slack. 
 
@@ -75,7 +75,7 @@ Call on a different student. Ask them what their favorite part of this solution 
 ## Topic 2 ( 45 min )
 
 ### Instructor Do: Sub-Topic A ( 10 min )
-![lecture][lecture]
+![lecture][lecture] _lecture_
 
 Time for more lecture. The lesson is divided into three 45 minute sections. This helps to **focus** each lesson around 3 topics that all support 1 over-arching concept. "Instructor Do"s should be **limited to 15 minutes** max. Consider these layouts for the 45 minute sections: 
 
@@ -107,7 +107,7 @@ This can also be useful for complex concepts. The first activity is a monkey-see
 This is a way to provide learners time to pull together disperate concepts into a single project or to spend time architecting a solution before jumping in. This is a great end of day option. 
 
 ### Partner Do: Sub-Topic A ( 10 min )
-![create][create]
+![create][create] _learner create_
 
 Insturctor notes should go here above instructions. 
 
@@ -124,7 +124,7 @@ This is student facing material. Include and number steps when applicable.
 Review the solution. 
 
 ### Instructor Do: Sub-Topic B ( 5 min )
-![demo-code][demo-code]
+![demo-code][demo-code] _demo code_
 
 When possible sample code should be written in-line. This allows instructors to teach without flipping between files.
 
@@ -136,16 +136,14 @@ In-line code should be written between three backticks and include the syntax hi
 const x = 4
 ```
 
-![note][note]
-
-**NOTE:**
+![note][note] _note_
 
 You can easily gauge the layout of your lesson plan by reviewing your icon colors. **Blues** are student activities and are more engaging. **Greens and Purples** are instructor lead but with fairly high student engagement. **Yellows** (including yellow-green) are instructor lead and are low engagement, but necessary.
 
 Try to write a rainbow lesson plan! 
 
 ### Partner Do: Sub-Topic B ( 10 min )
-![learn-code][learn-code]
+![learn-code][learn-code] _learner code_
 
 Insturctor notes should go here above instructions. 
 
@@ -169,12 +167,12 @@ Review the solution.
 ## Topic 3 ( 45 min )
 
 ### Instructor Do: Sub-Topic A ( 10 min )
-![lecture][lecture]
+![lecture][lecture] _lecture_
 
 More lecture, but that doesn't have to mean boring. Try writing in engagement tactics like fist-to-fives, asking students questions, and including short (60 second) thought exercises, research opportunities, or turn and talks (t&t for in-person only). 
 
 ### Partner Do: Sub-Topic A ( 25 min )
-![create][create]
+![create][create] _learner create_
 
 Insturctor notes should go here above instructions. 
 
