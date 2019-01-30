@@ -46,7 +46,7 @@ Leading discussions is a great way to increase engagement and check for student 
 - call on learners to get the discussion started
 
 ### Partner Do: Sub-Topic A ( 20 min )
-![create][create] _learner create_
+![create][create] _create_
 
 Insturctor notes should go here above instructions. 
 
@@ -107,7 +107,7 @@ This can also be useful for complex concepts. The first activity is a monkey-see
 This is a way to provide learners time to pull together disperate concepts into a single project or to spend time architecting a solution before jumping in. This is a great end of day option. 
 
 ### Partner Do: Sub-Topic A ( 10 min )
-![create][create] _learner create_
+![create][create] _create_
 
 Insturctor notes should go here above instructions. 
 
@@ -124,7 +124,7 @@ This is student facing material. Include and number steps when applicable.
 Review the solution. 
 
 ### Instructor Do: Sub-Topic B ( 5 min )
-![demo-code][demo-code] _demo code_
+![demo-code][demo-code] _code_
 
 When possible sample code should be written in-line. This allows instructors to teach without flipping between files.
 
@@ -143,7 +143,7 @@ You can easily gauge the layout of your lesson plan by reviewing your icon color
 Try to write a rainbow lesson plan! 
 
 ### Partner Do: Sub-Topic B ( 10 min )
-![learn-code][learn-code] _learner code_
+![learn-code][learn-code] _code_
 
 Insturctor notes should go here above instructions. 
 
@@ -172,7 +172,7 @@ Review the solution.
 More lecture, but that doesn't have to mean boring. Try writing in engagement tactics like fist-to-fives, asking students questions, and including short (60 second) thought exercises, research opportunities, or turn and talks (t&t for in-person only). 
 
 ### Partner Do: Sub-Topic A ( 25 min )
-![create][create] _learner create_
+![create][create] _create_
 
 Insturctor notes should go here above instructions. 
 
