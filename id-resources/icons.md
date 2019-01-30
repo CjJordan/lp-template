@@ -27,7 +27,7 @@ When the instructor is demonstrating code.
 ### Critique ###
 ![critique](https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_critique/res/mipmap-hdpi/ic_critique.png)
 
-When the instructor is leading a critique. 
+When the instructor is leading a student-driven critique. 
 - critiquing student work
 - critique outside work
 
@@ -40,12 +40,17 @@ When the instructor facilitates discussions.
 ### We Code ###
 ![we code](https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_we_code/res/mipmap-hdpi/ic_we_code.png)
 
-When the instructor facilitates discussions.
+When the instructor codes with the students guiding the activity. This does not include asking students to code along.
+- calling a student to the podium and asking them code an exercise with help from the class
+- calling on students one at a time to dictate a line of code each as instructor types
+- calling in student(s) to explain each line as you type it.
 
 ### We Create ###
 ![we code](https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_we_create/res/mipmap-hdpi/ic_we_create.png)
 
-When the instructor facilitates discussions.
+When the instructor creates something with the students guiding the activity. "Watch me and do what I do" style activties do not count as "We Create"
+- calling a student to the front to lead the class through a design process
+- calling on students one at a time to dictate the next step in the process as the instructor executes
 
 ## Independent Learner Activities ##
 
