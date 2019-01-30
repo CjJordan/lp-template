@@ -48,7 +48,7 @@ When the instructor codes with the students guiding the activity. This does not 
 ### We Create ###
 ![we code](https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_we_create/res/mipmap-hdpi/ic_we_create.png)
 
-When the instructor creates something with the students guiding the activity. "Watch me and do what I do" style activties do  _NOT_ count as "We Create"
+When the instructor creates something with the students guiding the activity. "Watch me and do what I do" style activties do  _NOT_ count as a We Create activitity.
 - calling a student to the front to lead the class through a design process
 - calling on students one at a time to dictate the next step in the process as the instructor executes
 
