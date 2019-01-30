@@ -2,7 +2,7 @@
 
 Start by reviewing the iconography. Icons help instructors follow the lesson plan more easily and help curriculum engineers gauge their variety and engagment. 
 
-[Icons](id-resources/icons/icons.md)
+[Icons](id-resources/icons.md)
 
 Next check out the simple template. It's a great starter file for creating lesson plans and gives you an idea of what we're going for in the longer template.
 
