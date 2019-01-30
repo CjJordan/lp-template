@@ -67,6 +67,8 @@ Pull up a student file on the projector.
 
 Call on a different student. Ask them what their favorite part of this solution is and what they might do differently. 
 
+Then call on another student and continue this process. Encourage healthy debate and balance positive with constructive feedback. 
+
 ---
 ## Break ( 10 min )
 ![break][break]
