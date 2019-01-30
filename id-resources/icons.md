@@ -14,7 +14,7 @@ When the instructor is presenting information.
 - presenting examples
 
 ### Demo Code ###
-![demo-code](https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_demo_code/res/mipmap-hdpi/ic_show_code.png)
+![demo-code](https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_demo_code/res/mipmap-hdpi/ic_demo_code.png)
 
 When the instructor is demonstrating code.
 - Showing pre-written code
