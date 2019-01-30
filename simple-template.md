@@ -19,11 +19,11 @@ Remind students that if they cannot meet any of these objectives it is their res
 ---
 ## Topic 1 ( 45 min )
 
-### Instructor Do: Sub-Topic A
+### Instructor Do: Sub-Topic A ( ? min )
 
-### Partner Do: Sub-Topic A
+### Partner Do: Sub-Topic A ( ? min )
 
-### Instructor Review: Sub-Topic A
+### Instructor Review: Sub-Topic A ( ? min )
 
 ---
 ## Break ( 10 min )
@@ -32,11 +32,11 @@ Remind students that if they cannot meet any of these objectives it is their res
 ---
 ## Topic 2 ( 45 min )
 
-### Instructor Do: Sub-Topic A
+### Instructor Do: Sub-Topic A ( ? min )
 
-### Partner Do: Sub-Topic A
+### Partner Do: Sub-Topic A ( ? min )
 
-### Instructor Review: Sub-Topic A
+### Instructor Review: Sub-Topic A ( ? min )
 
 ---
 ## Break ( 10 min )
@@ -45,11 +45,11 @@ Remind students that if they cannot meet any of these objectives it is their res
 ---
 ## Topic 3 ( 45 min )
 
-### Instructor Do: Sub-Topic A
+### Instructor Do: Sub-Topic A ( ? min )
 
-### Partner Do: Sub-Topic A
+### Partner Do: Sub-Topic A ( ? min )
 
-### Instructor Review: Sub-Topic A
+### Instructor Review: Sub-Topic A ( ? min )
 
 ---
 ## Recap ( 10 min )
