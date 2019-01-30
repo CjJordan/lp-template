@@ -21,6 +21,8 @@ When the instructor is demonstrating code.
 - Live coding
 - Asking students to code along
 
+## We Do Activities ##
+
 
 ### Critique ###
 ![critique](https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_critique/res/mipmap-hdpi/ic_critique.png)
@@ -32,6 +34,16 @@ When the instructor is leading a critique.
 
 ### Discuss ###
 ![discuss](https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_discuss/res/mipmap-hdpi/ic_discuss.png)
+
+When the instructor facilitates discussions.
+
+### We Code ###
+![we code](https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_we_code/res/mipmap-hdpi/ic_we_code.png)
+
+When the instructor facilitates discussions.
+
+### We Create ###
+![we code](https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_we_create/res/mipmap-hdpi/ic_we_create.png)
 
 When the instructor facilitates discussions.
 
