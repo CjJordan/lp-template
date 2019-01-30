@@ -78,6 +78,17 @@ When the learner is independently researching or teaching topics.
 - learner turn and teach activities.
 
 
+### Special Activity###
+![special](https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_special/res/mipmap-hdpi/ic_special.png)
+
+A highly noteworthy deviation from the norm (generally illustrating exceptionally high engagment), for example:
+
+- the class is taking a field trip today.
+- learners are making a video in class today.
+- learners are using masking tape to map out sorting algorithms on the classroom floor. 
+- learners are using their coding skills to build battlebots today.
+
+
 ## Other Icons ##
 
 ### Note ###
@@ -89,17 +100,6 @@ An important note that the instructor needs to see _during_ lecture.
 ![warning](https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_warning/res/mipmap-hdpi/ic_warning.png)
 
 Something of substantial importance. 
-
-
-### Special ###
-![special](https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_special/res/mipmap-hdpi/ic_special.png)
-
-A highly noteworthy deviation from the norm (generally illustrating exceptionally high engagment, for example:
-
-- the class is taking a field trip today.
-- learners are making a video in class today.
-- learners are using masking tape to map out sorting algorithms on the classroom floor. 
-- learners are using their coding skills to build battlebots today.
 
 ### Break ###
 ![break](https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_break/res/mipmap-hdpi/ic_break.png)
