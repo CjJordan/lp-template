@@ -104,6 +104,9 @@ Something of substantial importance.
 ### Break ###
 ![break](https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_break/res/mipmap-hdpi/ic_break.png)
 
+### Q&A ###
+![qa](https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_break/res/mipmap-hdpi/ic_qa.png)
+
 
 
 
