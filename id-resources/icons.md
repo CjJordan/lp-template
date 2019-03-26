@@ -105,7 +105,7 @@ Something of substantial importance.
 ![break](https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_break/res/mipmap-hdpi/ic_break.png)
 
 ### Q&A ###
-![qa](https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_break/res/mipmap-hdpi/ic_qa.png)
+![qa](https://github.com/CjJordan/lp-template/blob/master/id-resources/icons/icon_qa/res/mipmap-hdpi/ic_qa.png)
 
 
 
